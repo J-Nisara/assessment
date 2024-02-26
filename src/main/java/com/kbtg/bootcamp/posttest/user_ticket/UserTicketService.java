@@ -10,9 +10,4 @@ public class UserTicketService {
     public UserTicketService(UserRepository userRepository) {
         this.userRepository = userRepository;
     }
-
-//    public UserTicket getById(int userId){
-//        userRepository.
-//        return
-//    }
 }

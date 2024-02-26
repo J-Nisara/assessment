@@ -20,9 +20,9 @@ public class User {
     public User() {
     }
 
-//    public String getId() {
-//        return id;
-//    }
+    public String getId() {
+        return id;
+    }
 
     public String getUsername() {
         return username;
@@ -36,9 +36,9 @@ public class User {
         return role;
     }
 
-//    public void setId(String id) {
-//        this.id = id;
-//    }
+    public void setId(String id) {
+        this.id = id;
+    }
 
     public void setUsername(String username) {
         this.username = username;
